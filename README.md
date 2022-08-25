@@ -29,12 +29,10 @@
 <details>
   <summary> ⚡ Problem Solving </summary>
     <br/>
-    <div align="center">
-      <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soultreeforgood" alt="Solved.ac Profile">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soultreeforgood" alt="Solved.ac Profile">
       <br/>
       <a href="https://github.com/vanellotree/daily-algorithm"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=daily-algorithm&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
       <a href="https://github.com/vanellotree/i-go-algo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=i-go-algo&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
-     </div>
 </details>
 
 <details>
