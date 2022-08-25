@@ -32,8 +32,8 @@
     <div align="center">
       <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soultreeforgood" alt="Solved.ac Profile">
       <br/>
-      <a href="https://github.com/vanellotree/daily-algorithm"><img width="318" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=daily-algorithm&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
-      <a href="https://github.com/vanellotree/i-go-algo"><img width="318" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=i-go-algo&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
+      <a href="https://github.com/vanellotree/daily-algorithm"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=daily-algorithm&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
+      <a href="https://github.com/vanellotree/i-go-algo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=i-go-algo&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
      </div>
 </details>
 
@@ -85,8 +85,8 @@
   <summary>📈 My Github Statistics </summary>
   <br/>
     <div align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanellotree&hide_border=true&count_private=true&show_icons=true&theme=merko&bg_color=282828&icon_color=F8D866">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanellotree&theme=merko&hide_border=true&fire=FF4F00&ring=FFD82B&currStreakNum=DDB72E&background=282828">
+      <img align="left" width="278" src="https://github-readme-stats.vercel.app/api?username=vanellotree&hide_border=true&count_private=true&show_icons=true&theme=merko&bg_color=282828&icon_color=F8D866">
+      <img width="278" src="https://github-readme-streak-stats.herokuapp.com/?user=vanellotree&theme=merko&hide_border=true&fire=FF4F00&ring=FFD82B&currStreakNum=DDB72E&background=282828">
    </div>
   <br/>
 </details>
