@@ -26,11 +26,17 @@
 <details>
   <summary> ⚡ Problem Solving </summary>
     <br/>
+    <a href="https://solved.ac/soultreeforgood">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soultreeforgood" alt="Solved.ac Profile">
-      <br><br>
-      <a href="https://github.com/vanellotree/daily-algorithm"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=daily-algorithm&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
-      <a href="https://github.com/vanellotree/i-go-algo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=i-go-algo&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
-     <br><br>
+    </a>
+    <br><br>
+    <a href="https://github.com/vanellotree/daily-algorithm">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=daily-algorithm&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828">
+    </a>
+    <a href="https://github.com/vanellotree/i-go-algo">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=i-go-algo&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828">
+    </a>
+    <br><br>
 </details>
 
 <details>
@@ -91,5 +97,6 @@
   May your day be crowded with unexpected joys 🤞🏻🍀✨
 </h3>
 <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvanellotree%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits+%E2%AD%90&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvanellotree%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits+%E2%AD%90&edge_flat=false"/>
+  </a>
 </div>
