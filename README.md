@@ -1,4 +1,3 @@
-<br/>
 <h3 align="center">
   Hello. Welcome to Julia's github ! 👋🏻
 </h3>
@@ -14,8 +13,6 @@
 - 💧 I am trying my best to taking care in the experience, architecture and code quality of the things I build
 - ☀️ In order to be a person that I dream of, what else do I need other than persistance?
 
-<br/>
-
 ### What I Like
 
 - 👩🏻‍💻 Other than Programming ... 
@@ -30,19 +27,20 @@
   <summary> ⚡ Problem Solving </summary>
     <br/>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soultreeforgood" alt="Solved.ac Profile">
-      <br/>
+      <br><br>
       <a href="https://github.com/vanellotree/daily-algorithm"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=daily-algorithm&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
       <a href="https://github.com/vanellotree/i-go-algo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=vanellotree&repo=i-go-algo&theme=merko&hide_border=true&icon_color=F8D866&text_color=FFFFFF&bg_color=282828"></a>
+     <br><br>
 </details>
 
 <details>
    <summary> 🛠️ My Tools </summary>
     <br/>
-    <h3 align="center">
-      📍 Programming and Markup Languages
-    </h3>
+    <h2>
+      Programming and Markup Languages
+    </h2>
     <br/>
-    <div align="center">
+    <div>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
@@ -53,20 +51,20 @@
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
     </div>
     <br><br><br>
-    <h3 align="center">
-      📍 Frameworks and Libraries
-    </h3>
+    <h2>
+      Frameworks and Libraries
+    </h2>
     <br/>
-    <div align="center">
+    <div>
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
     </div>
     <br><br><br>
-    <h3 align="center">
-      📍 Etc. (Databases, Design Tools, Communication Tools)
-    </h3>
+    <h2>
+      Etc. (Databases, Design Tools, Communication Tools)
+    </h2>
     <br/>
-    <div align="center">
+    <div>
       <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
       <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white">
@@ -76,7 +74,7 @@
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
       <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white">
     </div>
-    <br/>
+    <br><br>
 </details>
 
 <details>
@@ -86,7 +84,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanellotree&theme=merko&hide_border=true&fire=FF4F00&ring=FFD82B&currStreakNum=DDB72E&background=282828">
   <br/>
 </details>
-<br/>
 
 <h3 align="center">
   Thanks for Stopping by <br/>
