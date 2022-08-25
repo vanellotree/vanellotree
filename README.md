@@ -84,10 +84,8 @@
 <details>
   <summary>📈 My Github Statistics </summary>
   <br/>
-    <div align="center">
-      <img align="left" width="278" src="https://github-readme-stats.vercel.app/api?username=vanellotree&hide_border=true&count_private=true&show_icons=true&theme=merko&bg_color=282828&icon_color=F8D866">
-      <img width="278" src="https://github-readme-streak-stats.herokuapp.com/?user=vanellotree&theme=merko&hide_border=true&fire=FF4F00&ring=FFD82B&currStreakNum=DDB72E&background=282828">
-   </div>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanellotree&hide_border=true&count_private=true&show_icons=true&theme=merko&bg_color=282828&icon_color=F8D866">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanellotree&theme=merko&hide_border=true&fire=FF4F00&ring=FFD82B&currStreakNum=DDB72E&background=282828">
   <br/>
 </details>
 <br/>
